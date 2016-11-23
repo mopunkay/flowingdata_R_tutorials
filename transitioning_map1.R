@@ -1,6 +1,7 @@
 ##################################################################
 # Create a transitioning map: part 1
 ##################################################################
+# following transitioning map tutorial series from FlowingData
 
 # install and load relevant packages
 packages <- c("maptools", "rgdal", "akima", "rgeos", "reshape", "prevR")
